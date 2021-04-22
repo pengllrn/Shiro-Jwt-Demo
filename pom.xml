@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <shiro.spring.version>1.4.0</shiro.spring.version>
+        <shiro.spring.version>1.7.0</shiro.spring.version>
         <jwt.auth0.version>3.2.0</jwt.auth0.version>
     </properties>
 
